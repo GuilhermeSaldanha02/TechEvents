@@ -1,6 +1,9 @@
 {
     "appName": "TechEvents System",
     "version": "1.0.0",
+    "eventos": {
+        "limiteDiario": 5
+    },
     "palestrantes": {
         "cacheMaximo": 5000.00
     }
