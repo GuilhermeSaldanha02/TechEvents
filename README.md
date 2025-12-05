@@ -108,6 +108,7 @@ class ParticipanteController {
 module.exports = ParticipanteController;
 
 
+
 👨‍💻 Guilherme: Módulo de Palestrantes
 Arquivo src/models/palestrante.js:
 
