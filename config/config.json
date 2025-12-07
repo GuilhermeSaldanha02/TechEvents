@@ -1,7 +1,11 @@
 {
-    "appName": "TechEvents System",
-    "version": "1.0.0",
-    "palestrantes": {
-        "cacheMaximo": 5000.00
-    }
+  "appName": "TechEvents System",
+  "version": "1.0.0",
+  "eventos": {
+    "limiteDiario": 5
+  },
+  "dominioEmailBloqueado": "@spam.com",
+  "palestrantes": {
+    "cacheMaximo": 5000.0
+  }
 }

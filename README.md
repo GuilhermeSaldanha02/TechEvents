@@ -70,6 +70,7 @@ class EventoController {
     }
 }
 module.exports = EventoController;
+
 👨‍💻 Rodrigo: Módulo de Participantes
 Arquivo src/models/participante.js:
 
@@ -85,6 +86,7 @@ class Participante {
     }
 }
 module.exports = Participante;
+
 Arquivo src/controllers/participanteController.js:
 
 JavaScript
@@ -104,6 +106,8 @@ class ParticipanteController {
     }
 }
 module.exports = ParticipanteController;
+
+
 
 👨‍💻 Guilherme: Módulo de Palestrantes
 Arquivo src/models/palestrante.js:
